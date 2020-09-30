@@ -1,0 +1,8 @@
+0,1,1,1,1,1,1
+2,3,3,3,4,3,3
+3,5,5,55,5,5,5
+1,david,gatan 11,18378,täby,070000000,abc@abc.se
+4,peter,båtgatan 19,18737,Orsa,0293898293,habba@haoo.se
+5,pelle,pellegatan 19,17367,stockholm,08378273,pelle@yahoo.se
+6,anders,gåtvägen 55,67327,sälen,27372828,salen19@hotmail.com
+7,hannes,grumsgatan 15,82399,södertälje,085323232,tetrapak@pack.se
